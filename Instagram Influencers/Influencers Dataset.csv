@@ -1,0 +1,200 @@
+﻿rank,channel_info,influence_score,posts,followers,avg_likes,60_day_eng_rate,new_post_avg_like,total_likes,country
+1,cristiano,92,3.3k,475.8m,8.7m,1.39%,6.5m,29.0b,Spain
+2,kyliejenner,91,6.9k,366.2m,8.3m,1.62%,5.9m,57.4b,United States
+3,leomessi,90,0.89k,357.3m,6.8m,1.24%,4.4m,6.0b,Argentina
+4,selenagomez,93,1.8k,342.7m,6.2m,0.97%,3.3m,11.5b,United States
+5,therock,91,6.8k,334.1m,1.9m,0.20%,665.3k,12.5b,United States
+6,kimkardashian,91,5.6k,329.2m,3.5m,0.88%,2.9m,19.9b,United States
+7,arianagrande,92,5.0k,327.7m,3.7m,1.20%,3.9m,18.4b,United States
+8,beyonce,92,2.0k,272.8m,3.6m,0.76%,2.0m,7.4b,United States
+9,khloekardashian,89,4.1k,268.3m,2.4m,0.35%,926.9k,9.8b,United States
+10,justinbieber,91,7.4k,254.5m,1.9m,0.59%,1.5m,13.9b,Canada
+11,kendalljenner,90,0.66k,254.0m,5.5m,2.04%,5.1m,3.7b,United States
+12,natgeo,91,10.0k,237.0m,302.2k,0.07%,159.3k,3.0b,United States
+13,nike,90,0.95k,234.1m,329.0k,0.08%,181.8k,313.6m,United States
+14,taylorswift,91,0.53k,222.2m,2.4m,1.01%,2.3m,1.3b,United States
+15,jlo,89,3.2k,220.4m,1.7m,0.62%,1.4m,5.3b,United States
+16,virat.kohli,87,1.4k,211.8m,3.5m,0.96%,2.0m,4.9b,India
+17,nickiminaj,90,6.4k,201.6m,2.1m,0.53%,1.0m,13.5b,United States
+18,kourtneykardash,89,4.4k,195.2m,1.8m,0.67%,1.3m,7.7b,United States
+19,mileycyrus,89,1.2k,181.5m,1.3m,0.51%,913.6k,1.6b,America
+20,neymarjr,90,5.3k,177.1m,2.7m,1.09%,1.9m,14.1b,Brazil
+21,katyperry,92,2.0k,170.3m,715.0k,0.16%,265.1k,1.5b,America
+22,kevinhart4real,88,8.2k,152.0m,522.0k,0.08%,115.2k,4.3b,United States
+23,zendaya,87,3.5k,150.7m,5.8m,3.17%,4.8m,20.6b,United States
+24,iamcardib,75,1.6k,140.5m,3.1m,1.10%,1.5m,5.0b,United States
+25,ddlovato,88,0.08k,139.1m,1.1m,0.27%,363.4k,91.3m,United States
+26,badgalriri,88,4.8k,135.3m,3.7m,0.02%,0,17.9b,United States
+27,kingjames,86,2.3k,130.9m,2.1m,0.92%,1.2m,4.9b,Spain
+28,theellenshow,87,10.0k,125.1m,420.5k,0.07%,81.7k,4.2b,United States
+29,realmadrid,90,6.9k,123.4m,996.2k,0.48%,588.3k,6.8b,Spain
+30,champagnepapi,85,5.2k,119.6m,1.7m,1.10%,1.3m,9.0b,Netherlands
+31,chrisbrownofficial,86,7.3k,118.5m,463.2k,0.22%,255.9k,3.4b,United States
+32,fcbarcelona,90,10.0k,111.4m,1.2m,0.64%,706.3k,11.6b,Spain
+33,billieeilish,73,0.69k,105.2m,8.5m,5.02%,5.2m,5.9b,America
+34,dualipa,74,1.3k,85.9m,2.1m,1.26%,1.1m,2.6b,United Kingdom
+35,gal_gadot,85,1.7k,85.6m,1.4m,0.69%,586.5k,2.3b,United States
+36,vindiesel,88,1.8k,82.3m,1.4m,0.60%,482.3k,2.5b,United States
+37,nasa,88,3.6k,81.3m,1.2m,1.53%,1.2m,4.2b,United States
+38,priyankachopra,85,3.6k,81.1m,1.6m,1.00%,802.9k,5.6b,United States
+39,lalalalisa_m,70,0.87k,80.9m,5.8m,9.00%,7.2m,5.1b,Korea
+40,Shakira,88,2.0k,76.1m,975.1k,0.41%,304.7k,1.9b,Colombian
+41,snoopdogg,86,10.0k,75.3m,203.7k,0.17%,125.8k,2.0b,America
+42,gigihadid,85,3.3k,75.3m,2.5m,2.56%,1.9m,8.2b,United States
+43,davidbeckham,86,1.5k,74.9m,1.2m,0.46%,340.9k,1.9b,United States
+44,shraddhakapoor,81,1.9k,73.9m,1.6m,1.17%,859.9k,3.0b,India
+45,victoriassecret,88,2.9k,73.2m,147.0k,0.04%,29.8k,423.5m,United States
+46,k.mbappe,86,1.2k,72.7m,2.5m,2.16%,1.6m,2.8b,France
+47,nehakakkar,84,2.3k,70.4m,1.5m,0.54%,370.1k,3.5b,India
+48,nba,87,12.9k,70.1m,370.8k,0.28%,196.9k,4.8b,United States
+49,shawnmendes,83,2.5k,69.9m,3.5m,2.87%,2.0m,8.8b,Canada
+50,jennierubyjane,76,0.86k,68.9m,5.1m,8.36%,5.7m,4.4b,Korea
+51,narendramodi,85,0.54k,68.9m,2.9m,3.01%,2.0m,1.6b,India
+52,aliaabhatt,82,1.8k,68.7m,1.8m,3.14%,2.1m,3.3b,India
+53,deepikapadukone,83,0.26k,68.4m,1.6m,2.23%,1.5m,419.0m,India
+54,tomholland2013,77,1.2k,67.7m,5.4m,10.83%,7.3m,6.6b,England
+55,ronaldinho,78,2.9k,67.7m,872.9k,0.49%,325.7k,2.6b,Brazil
+56,emmawatson,87,0.34k,67.3m,1.9m,0.01%,0,639.0m,United States
+57,bts.bighitofficial,78,1.2k,66.9m,4.1m,5.40%,3.6m,4.9b,Uruguay
+58,katrinakaif,85,1.0k,66.3m,1.7m,2.25%,1.5m,1.7b,India
+59,marvel,82,7.0k,66.2m,332.3k,0.51%,339.0k,2.3b,Turkey
+60,justintimberlake,87,0.78k,65.9m,600.4k,0.30%,189.4k,470.7m,United States
+61,camila_cabello,77,2.9k,65.0m,1.9m,2.19%,1.4m,5.4b,United States
+62,willsmith,82,1.4k,63.9m,1.4m,0.02%,0,1.9b,United States
+63,raffinagita1717,83,17.5k,63.5m,386.9k,0.58%,366.6k,6.8b,Indonesia
+64,anitta,82,5.1k,63.1m,855.5k,0.69%,426.2k,4.4b,United States
+65,sooyaaa__,82,0.83k,62.9m,4.5m,9.43%,5.9m,3.8b,Korea
+66,maluma,84,8.2k,62.8m,1.2m,1.12%,696.3k,9.8b,Colombia
+67,akshaykumar,85,1.9k,62.8m,1.5m,1.01%,624.9k,2.9b,India
+68,jacquelinef143,85,2.4k,62.7m,1.1m,1.15%,718.8k,2.8b,India
+69,psg,86,10.0k,61.9m,500.5k,0.52%,322.2k,5.0b,France
+70,roses_are_rosie,82,0.82k,61.8m,4.6m,9.72%,6.0m,3.8b,Korea
+71,manchesterunited,85,9.9k,59.6m,381.8k,0.41%,241.6k,3.8b,United Kingdom
+72,anushkasharma,85,1.2k,59.5m,1.9m,2.34%,1.4m,2.2b,India
+73,whinderssonnunes,79,2.7k,58.7m,1.6m,0.58%,323.1k,4.4b,Brazil
+74,9gag,86,10.0k,58.1m,672.6k,0.44%,248.6k,6.7b,United States
+75,marcelotwelve,86,2.7k,58.1m,690.9k,0.78%,448.3k,1.9b,Brazil
+76,milliebobbybrown,80,0.28k,57.6m,4.0m,8.63%,5.0m,1.1b,United States
+77,karimbenzema,42,2.0k,56.9m,878.5k,1.62%,918.9k,1.8b,Spain
+78,chrishemsworth,86,0.88k,55.9m,2.8m,3.69%,2.1m,2.5b,Australia
+79,karolg,83,3.3k,55.6m,3.1m,10.25%,5.7m,10.1b,India
+80,paulpogba,80,1.3k,55.2m,1.4m,0.85%,462.6k,1.8b,France
+81,iamzlatanibrahimovic,86,0.87k,55.1m,1.5m,1.53%,837.1k,1.3b,Sweden
+82,leonardodicaprio,86,1.7k,54.6m,395.5k,0.20%,107.6k,669.3m,America
+83,juventus,87,10.0k,54.5m,194.8k,0.25%,135.5k,1.9b,Italy
+84,zacefron,86,0.66k,54.5m,2.3m,8.18%,4.4m,1.5b,United States
+85,bellahadid,79,3.2k,54.1m,1.1m,2.06%,1.1m,3.6b,United Kingdom
+86,tatawerneck,86,5.6k,53.9m,959.8k,0.51%,266.5k,5.4b,Brazil
+87,beingsalmankhan,76,1.2k,53.5m,1.4m,1.33%,693.9k,1.6b,India
+88,robertdowneyjr,86,0.42k,53.4m,3.0m,2.05%,1.1m,1.3b,United States
+89,sunnyleone,84,4.6k,53.4m,764.0k,0.57%,301.3k,3.5b,America
+90,ladygaga,83,3.6k,53.2m,1.4m,1.02%,531.6k,5.1b,United States
+91,dishapatani,74,2.1k,53.0m,1.6m,1.85%,971.7k,3.4b,United States
+92,sergioramos,87,2.2k,52.8m,1.1m,1.06%,557.9k,2.5b,Spain
+93,jbalvin,87,10.0k,52.8m,878.0k,0.66%,340.5k,8.8b,Colombian
+94,mosalah,22,0.84k,52.5m,1.8m,2.18%,1.1m,1.5b,Egypt
+95,ayutingting92,85,10.0k,52.4m,147.3k,0.11%,56.3k,1.5b,Indonesia
+96,433,79,10.3k,51.2m,863.2k,1.52%,774.2k,8.9b,Netherlands
+97,hudabeauty,82,2.4k,50.8m,186.4k,0.04%,16.8k,453.6m,United States
+98,adele,84,0.42k,50.7m,4.7m,3.82%,1.9m,2.0b,United States
+99,michelleobama,85,0.60k,50.7m,700.5k,1.22%,611.2k,421.7m,America
+100,kritisanon,76,2.7k,50.2m,897.2k,1.21%,604.4k,2.4b,India
+101,jamesrodriguez10,86,1.1k,49.9m,1.4m,0.75%,363.9k,1.5b,Colombia
+102,krisjenner,80,6.4k,49.7m,356.8k,0.91%,452.9k,2.3b,United States
+103,thv,83,0.06k,49.3m,15.4m,25.80%,12.6m,987.4m,Korea
+104,lelepons,81,2.5k,49.2m,2.4m,3.55%,1.7m,6.1b,United States
+105,charlidamelio,80,0.15k,49.1m,4.2m,3.28%,1.6m,654.4m,America
+106,gucci,86,8.9k,49.0m,115.1k,0.15%,72.4k,1.0b,Italy
+107,prillylatuconsina96,84,6.5k,48.9m,372.4k,0.27%,131.8k,2.4b,Indonesia
+108,louisvuitton,82,6.5k,48.7m,127.5k,0.08%,40.5k,824.0m,France
+109,paulodybala,85,1.3k,48.3m,1.8m,2.88%,1.4m,2.3b,Argentina
+111,dovecameron,85,0.17k,48.2m,1.6m,1.75%,841.4k,283.0m,United States
+112,garethbale11,86,0.98k,48.1m,763.0k,1.43%,681.3k,753.1m,England
+113,jokowi,85,3.5k,47.7m,452.6k,0.41%,189.6k,1.6b,Indonesia
+114,nusr_et,81,2.3k,47.3m,728.2k,0.29%,133.0k,1.7b,United Arab Emirates
+115,harrystyles,57,0.59k,46.9m,4.7m,6.38%,2.9m,2.8b,United States
+116,haileybieber,85,2.1k,46.9m,2.0m,3.47%,1.6m,4.2b,America
+117,vanessahudgens,84,4.2k,46.8m,633.9k,0.63%,292.9k,2.7b,United States
+118,5-Minute Crafts GIRLY,85,10.0k,46.5m,157.0k,0.03%,12.4k,1.6b,United States
+119,zayn,82,0.16k,46.5m,4.7m,8.81%,4.0m,773.5m,United States
+120,larissamanoela,85,5.2k,46.5m,579.6k,0.57%,259.4k,3.0b,Brazil
+121,travisscott,78,3.2k,46.2m,3.0m,5.71%,2.6m,9.6b,United States
+122,thenotoriousmma,82,3.2k,45.9m,1.1m,0.69%,311.5k,3.5b,United States
+123,daddyyankee,80,0.02k,45.9m,652.5k,1.00%,455.3k,18.3m,Puerto Rico
+124,natgeotravel,82,16.9k,45.8m,189.9k,0.12%,52.8k,3.2b,United States
+125,nikefootball,85,1.8k,45.4m,431.2k,0.44%,199.8k,784.0m,United States
+126,stephencurry30,84,1.1k,45.4m,1.1m,2.76%,1.2m,1.2b,America
+127,vancityreynolds,86,0.68k,44.8m,1.4m,2.61%,1.2m,925.7m,Colombian
+128,maisa,42,1.5k,44.5m,553.0k,0.67%,294.1k,820.1m,Brazil
+129,luissuarez9,85,0.97k,44.2m,801.8k,0.96%,414.8k,782.5m,Uruguay
+130,gusttavolima,76,4.9k,43.9m,475.1k,0.71%,303.9k,2.3b,Brazil
+131,jannatzubair29,84,1.6k,43.8m,1.3m,2.18%,944.3k,2.2b,India
+132,varundvn,84,1.9k,43.8m,1.1m,1.48%,640.5k,2.0b,India
+133,hrithikroshan,85,0.58k,43.7m,1.6m,3.82%,1.6m,949.9m,CÃ´te d'Ivoire
+134,nickyjampr,81,10.0k,43.4m,381.6k,0.33%,139.3k,3.8b,Colombia
+135,buzzfeedtasty,85,8.9k,43.2m,65.1k,0.02%,7.7k,580.7m,Spain
+136,brunamarquezine,84,3.0k,43.1m,969.7k,1.05%,444.2k,2.9b,United States
+137,caradelevingne,86,4.4k,42.9m,790.2k,0.43%,181.0k,3.5b,United States
+138,kapilsharma,83,0.95k,42.2m,736.4k,1.49%,624.5k,710.7m,India
+139,badbunnypr,83,0.01k,42.1m,3.7m,13.09%,5.4m,67.5m,America
+140,britneyspears,80,3.0k,42.1m,513.1k,0.55%,221.7k,1.6b,Turkey
+141,j.m,83,0.02k,41.9m,14.2m,26.41%,11.0m,368.1m,America
+142,mariliamendoncacantora,73,1.4k,41.8m,1.0m,1.98%,818.6k,1.5b,Brazil
+143,norafatehi,83,1.7k,41.6m,1.4m,1.76%,727.5k,2.3b,Anguilla
+144,theweeknd,83,0.67k,41.5m,1.1m,3.97%,1.6m,767.0m,Canada
+145,dior,85,9.7k,41.5m,88.8k,0.16%,63.6k,863.0m,France
+146,ranveersingh,85,1.8k,40.8m,1.0m,0.76%,299.3k,1.8b,Switzerland
+147,marinaruybarbosa,81,2.1k,40.7m,586.4k,0.01%,0,1.2b,Brazil
+148,jenniferaniston,85,0.09k,40.7m,4.6m,1.88%,731.0k,452.0m,America
+149,addisonraee,85,0.30k,40.1m,3.1m,2.49%,994.4k,957.9m,America
+150,andresiniesta8,85,2.0k,40.0m,250.8k,0.41%,161.7k,500.5m,Spain
+151,princessyahrini,81,4.5k,40.0m,118.3k,0.22%,87.4k,529.9m,Indonesia
+152,liverpoolfc,75,10.0k,39.9m,346.7k,0.42%,162.9k,3.5b,United Kingdom
+153,teddysphotos,80,2.3k,39.9m,715.5k,0.46%,181.1k,1.7b,United States
+154,worldstar,78,11.6k,39.2m,157.4k,0.23%,84.4k,1.8b,United States
+155,natashawilona12,84,1.2k,39.2m,486.5k,0.59%,227.7k,563.9m,India
+156,mahi7781,58,0.10k,39.1m,4.1m,0.17%,0,439.4m,India
+157,georginagio,74,0.73k,39.1m,2.2m,8.56%,3.3m,1.6b,Spain
+158,cznburak,80,1.8k,39.0m,815.8k,1.01%,383.3k,1.4b,Turkey
+159,chrissyteigen,79,5.1k,38.9m,623.1k,0.43%,162.1k,3.2b,United States
+160,ruben_onsu,75,13.4k,38.8m,139.3k,0.13%,49.1k,1.9b,Indonesia
+161,wizkhalifa,80,0.50k,38.7m,398.7k,0.31%,115.7k,199.8m,United States
+162,hm,83,7.3k,38.5m,88.4k,0.06%,22.4k,644.1m,Sweden
+163,anushkasen0408,85,5.3k,38.3m,695.4k,1.75%,658.3k,3.7b,India
+164,prattprattpratt,84,0.73k,38.3m,813.5k,1.00%,363.8k,594.7m,America
+165,marvelstudios,83,2.7k,38.1m,594.2k,1.58%,555.9k,1.6b,America
+166,wesleysafadao,80,8.9k,37.4m,256.1k,0.02%,0,2.3b,Brazil
+167,parineetichopra,84,1.3k,37.4m,505.7k,0.68%,246.9k,672.1m,India
+168,rkive,83,0.11k,37.0m,10.9m,NaN%,0,1.2b,Korea
+169,laudyacynthiabella,76,0.38k,36.9m,172.8k,0.12%,43.4k,66.7m,Indonesia
+170,antogriezmann,83,0.87k,36.5m,1.1m,0.57%,203.6k,955.4m,France
+171,gisel_la,85,9.9k,36.5m,150.5k,0.10%,33.4k,1.5b,Indonesia
+172,eminem,84,0.66k,36.4m,1.1m,2.69%,962.7k,730.1m,United States
+173,mercedesbenz,77,10.0k,36.0m,197.9k,0.18%,64.6k,2.0b,British Virgin Islands
+174,colesprouse,81,1.2k,35.9m,2.2m,2.34%,834.5k,2.6b,America
+175,nattinatasha,47,0.03k,35.9m,518.1k,0.80%,285.9k,18.7m,Czech Republic
+176,shahidkapoor,82,1.1k,35.6m,1.3m,2.54%,780.0k,1.5b,India
+177,tigerjackieshroff,83,2.1k,35.6m,1.1m,1.20%,422.9k,2.2b,India
+178,kimberly.loaiza,78,0.59k,35.5m,2.6m,5.23%,1.8m,1.6b,Mexico
+179,barackobama,81,0.66k,35.4m,1.1m,1.19%,411.5k,739.5m,United States
+180,sachintendulkar,76,1.0k,35.3m,800.4k,2.03%,664.5k,810.0m,India
+181,simonemendes,72,4.4k,35.0m,420.0k,0.65%,222.9k,1.9b,Brazil
+182,ivetesangalo,84,7.6k,34.8m,226.4k,0.36%,121.1k,1.7b,Brazil
+183,lunamaya,83,4.1k,34.8m,145.4k,0.17%,58.6k,589.6m,Indonesia
+184,toni.kr8s,83,0.94k,34.7m,597.2k,1.68%,533.5k,561.3m,India
+185,dannapaola,68,1.9k,34.7m,1.5m,3.49%,1.2m,2.8b,Mexico
+186,paollaoliveirareal,84,4.6k,34.7m,367.8k,0.57%,192.3k,1.7b,Brazil
+187,blakelively,80,0.11k,34.6m,3.1m,0.02%,0,350.9m,United States
+188,adidasoriginals,83,0.15k,34.2m,136.2k,0.20%,66.8k,21.2m,Germany
+189,disney,77,7.3k,34.2m,185.2k,0.44%,132.0k,1.4b,United States
+190,shaymitchell,83,6.3k,34.1m,732.4k,0.73%,247.5k,4.6b,United States
+191,bmw,79,9.3k,33.7m,231.3k,0.23%,76.5k,2.2b,Germany
+192,danbilzerian,84,1.4k,33.6m,2.0m,3.58%,1.2m,2.8b,Canada
+193,khabib_nurmagomedov,63,4.5k,33.5m,685.1k,0.67%,220.7k,3.1b,Russia
+194,zidane,41,0.37k,33.5m,1.1m,1.61%,532.7k,391.9m,France
+195,sonamkapoor,75,4.8k,33.3m,264.7k,0.63%,209.2k,1.3b,India
+196,iambeckyg,71,2.3k,33.2m,623.8k,1.40%,464.7k,1.4b,United States
+197,nancyajram,81,3.8k,33.2m,390.4k,0.64%,208.0k,1.5b,France
+198,luansantana,79,0.77k,33.2m,193.3k,0.26%,82.6k,149.2m,Brazil
+199,nickjonas,78,2.3k,33.0m,719.6k,1.42%,467.7k,1.7b,United States
+200,raisa6690,80,4.2k,32.8m,232.2k,0.30%,97.4k,969.1m,Indonesia
