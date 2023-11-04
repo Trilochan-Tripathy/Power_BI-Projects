@@ -1,8 +1,0 @@
-This is the HR analytics attendance report of Atliq Technologies. 
-In this dashboard, data is loaded in Power BI and then transformed data in the Power query editor.
-Date Column added by using the date function.
-Created a measure table having multiple DAX functions to determine Present %, WFH count, Sick leave %, and many more.
-Charts Description:- 
-KPI Cards - Present % , WFH % , Sick Leave %
-Matrix Table - Each Employee's  - Present % , WFH % & Sick Leave % 
-Line Charts - Month-wise present percentage & WFH percentage. 
